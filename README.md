@@ -13,9 +13,9 @@ github开源地址：
 - 正常鼠标功能：光标移动、左右键、中键、滚轮、DPI切换，DPI切换时LED闪烁3次
 - 拓展功能：两个自定义按键（已预留接口），本例程未添加
 
-<img src="https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409052004277.png" alt="image-20240905200432905"  />
+![64DA9588A2AAFD1BDF1AC313AC29D456](https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409061751369.jpg)
 
-<img src="https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409052005416.png" alt="image-20240905200511964"  />
+![3261D5C00615FE60A11538A9DC0D079D](https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409061751557.jpg)
 
 
 
