@@ -13,9 +13,9 @@ github开源地址：
 - 正常鼠标功能：光标移动、左右键、中键、滚轮、DPI切换，DPI切换时LED闪烁3次
 - 拓展功能：两个自定义按键（已预留接口），本例程未添加
 
-<img src="https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409052004277.png" alt="image-20240905200432905" style="zoom:50%;" />
+<img src="https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409052004277.png" alt="image-20240905200432905"  />
 
-<img src="https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409052005416.png" alt="image-20240905200511964" style="zoom:50%;" />
+<img src="https://picture-note-1328988318.cos.ap-nanjing.myqcloud.com/Typora/202409052005416.png" alt="image-20240905200511964"  />
 
 
 
@@ -487,7 +487,7 @@ void LED_Task(void)
 
 ## 四、硬件实现
 
-硬件比较简单，本质就是stm32最小系统板 + PAW3395驱动电路 + 按键和滚轮电路，还有就是PCB和3D外壳的适配，文件工程里都有。具体BOM表及PCB、3D外壳详细信息请移步立创开源广场：
+硬件比较简单，本质就是stm32最小系统板 + PAW3395驱动电路 + 按键和滚轮电路，还有就是PCB和3D外壳的适配，文件工程里都有。具体BOM表及PCB、3D外壳详细信息请移步立创开源广场：[基于stm32制作的PAW3395鼠标 - 立创开源硬件平台 (oshwhub.com)](https://oshwhub.com/lidongze/shu-biao-zhong-ji-ban)
 
 这里先放出原理图及PCB图片以供参考：
 
