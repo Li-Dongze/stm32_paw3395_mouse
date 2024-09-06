@@ -1,0 +1,15 @@
+PB12 --- DPI_Key
+PB14 --- Middel_Key
+PB15 --- Right_Key
+PB13 --- Left_Key
+
+
+
+
+
+
+
+
+
+
+

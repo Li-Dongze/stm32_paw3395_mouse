@@ -1,0 +1,1 @@
+mouse_paw3395\startup_stm32f103xb.o: startup_stm32f103xb.s
